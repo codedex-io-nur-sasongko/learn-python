@@ -10,3 +10,6 @@ I'm using Ubuntu 24.04 and Using python linux is "Externally Managed", is featur
 ## How to run (after first time)
 1. Activate the virtual environment by running `source venv/bin/activate`.
 2. Run `python3 create_gif.py` to create the gif.
+
+## Source
+For more information, you can visit the [Create a GIF with Python](https://www.codedex.io/projects/create-a-gif-with-python) project on CodeDex.
